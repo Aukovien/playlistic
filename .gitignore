@@ -36,6 +36,14 @@
 ehthumbs.db
 Thumbs.db
 
+# PYTHON #
+##########
+__pycache__/
+
+# DATABASE #
+############
+django_website/db.sqlite3
+
 # SENSITIVE #
 #############
 .env
